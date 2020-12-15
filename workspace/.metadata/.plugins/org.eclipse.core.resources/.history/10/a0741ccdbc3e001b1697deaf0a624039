@@ -1,0 +1,5 @@
+package com.WebServlet.dao.impl;
+
+public class UserDAO {
+
+}

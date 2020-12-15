@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.WebServlet.dao.GenericDAO"/>
+    <fullyQualifiedTypeName name="com.WebServlet.mapper.RowMapper"/>
+    <fullyQualifiedTypeName name="com.WebServlet.model.Role"/>
+    <fullyQualifiedTypeName name="com.WebServlet.utils.SessionUtil"/>
+    <fullyQualifiedTypeName name="com.WebServlet.model.User"/>
+    <fullyQualifiedTypeName name="com.WebServlet.bo.IUserBO"/>
+    <fullyQualifiedTypeName name="com.WebServlet.dao.IUserDAO"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.WebServlet.mapper.UserMapper"/>
+</qualifiedTypeNameHistroy>

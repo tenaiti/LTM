@@ -1,0 +1,5 @@
+package com.WebServlet.controller;
+
+public class AdminController {
+
+}

@@ -1,0 +1,5 @@
+package com.WebServlet.bo;
+
+public interface IUserBO {
+
+}

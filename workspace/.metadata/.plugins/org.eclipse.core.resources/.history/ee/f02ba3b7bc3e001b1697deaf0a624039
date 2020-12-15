@@ -1,0 +1,5 @@
+package com.WebServlet.bo.impl;
+
+public class UserBO {
+
+}

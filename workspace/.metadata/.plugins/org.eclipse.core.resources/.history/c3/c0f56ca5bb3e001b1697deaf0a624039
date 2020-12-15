@@ -1,0 +1,5 @@
+package com.WebServlet.model;
+
+public class Role {
+
+}

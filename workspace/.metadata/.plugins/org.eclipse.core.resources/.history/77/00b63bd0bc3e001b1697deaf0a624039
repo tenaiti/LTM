@@ -1,0 +1,7 @@
+package com.WebServlet.bo.impl;
+
+import com.WebServlet.bo.IUserBO;
+
+public class UserBO implements IUserBO {
+
+}
